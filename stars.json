@@ -1,19 +1,19 @@
 [
   {
     "full_name": "valeriansaliou/sonic",
-    "stargazers_count": 13665,
+    "stargazers_count": 13675,
     "open_issues_count": 58,
     "forks_count": 468
   },
   {
     "full_name": "BSidesSF/ctf-2022-release",
-    "stargazers_count": 20,
+    "stargazers_count": 21,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "alinemorelli/react-gtm",
-    "stargazers_count": 560,
+    "stargazers_count": 562,
     "open_issues_count": 48,
     "forks_count": 112
   },
@@ -26,14 +26,14 @@
   {
     "full_name": "commercial-emacs/commercial-emacs",
     "stargazers_count": 260,
-    "open_issues_count": 45,
+    "open_issues_count": 35,
     "forks_count": 6
   },
   {
     "full_name": "natecraddock/workspaces.nvim",
     "stargazers_count": 81,
     "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "FlowerAutomation/flower",
@@ -43,21 +43,21 @@
   },
   {
     "full_name": "App-vNext/Polly",
-    "stargazers_count": 10971,
+    "stargazers_count": 10987,
     "open_issues_count": 86,
-    "forks_count": 1002
+    "forks_count": 1003
   },
   {
     "full_name": "jbogard/MediatR",
-    "stargazers_count": 8461,
+    "stargazers_count": 8467,
     "open_issues_count": 78,
-    "forks_count": 992
+    "forks_count": 995
   },
   {
     "full_name": "khellang/Scrutor",
-    "stargazers_count": 2491,
+    "stargazers_count": 2495,
     "open_issues_count": 35,
-    "forks_count": 188
+    "forks_count": 189
   },
   {
     "full_name": "mfine/heroku-buildpack-stack",
@@ -73,14 +73,14 @@
   },
   {
     "full_name": "cljoly/telescope-repo.nvim",
-    "stargazers_count": 108,
+    "stargazers_count": 109,
     "open_issues_count": 10,
     "forks_count": 4
   },
   {
     "full_name": "CRAG666/code_runner.nvim",
-    "stargazers_count": 201,
-    "open_issues_count": 4,
+    "stargazers_count": 203,
+    "open_issues_count": 5,
     "forks_count": 12
   },
   {
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "eshion/vim-sync",
-    "stargazers_count": 62,
+    "stargazers_count": 63,
     "open_issues_count": 9,
     "forks_count": 26
   },
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "mendel5/alternative-front-ends",
-    "stargazers_count": 2619,
-    "open_issues_count": 28,
-    "forks_count": 75
+    "stargazers_count": 2633,
+    "open_issues_count": 29,
+    "forks_count": 76
   },
   {
     "full_name": "CTFd/CTFd",
-    "stargazers_count": 4178,
-    "open_issues_count": 247,
-    "forks_count": 1597
+    "stargazers_count": 4181,
+    "open_issues_count": 248,
+    "forks_count": 1600
   },
   {
     "full_name": "stripe-ctf/stripe-ctf-2.0",
@@ -145,8 +145,8 @@
   },
   {
     "full_name": "roddhjav/pass-import",
-    "stargazers_count": 602,
-    "open_issues_count": 4,
+    "stargazers_count": 604,
+    "open_issues_count": 5,
     "forks_count": 82
   },
   {
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "astoff/devdocs.el",
-    "stargazers_count": 105,
+    "stargazers_count": 106,
     "open_issues_count": 1,
     "forks_count": 8
   },
   {
     "full_name": "typesense/typesense",
-    "stargazers_count": 10736,
-    "open_issues_count": 201,
-    "forks_count": 313
+    "stargazers_count": 10841,
+    "open_issues_count": 203,
+    "forks_count": 315
   },
   {
     "full_name": "wiremock/wiremock",
-    "stargazers_count": 5137,
-    "open_issues_count": 267,
-    "forks_count": 1274
+    "stargazers_count": 5140,
+    "open_issues_count": 251,
+    "forks_count": 1273
   }
 ]
