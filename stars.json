@@ -1,7 +1,7 @@
 [
   {
     "full_name": "valeriansaliou/sonic",
-    "stargazers_count": 13675,
+    "stargazers_count": 13687,
     "open_issues_count": 58,
     "forks_count": 468
   },
@@ -14,8 +14,8 @@
   {
     "full_name": "alinemorelli/react-gtm",
     "stargazers_count": 562,
-    "open_issues_count": 48,
-    "forks_count": 112
+    "open_issues_count": 49,
+    "forks_count": 113
   },
   {
     "full_name": "serokell/github-app",
@@ -25,13 +25,13 @@
   },
   {
     "full_name": "commercial-emacs/commercial-emacs",
-    "stargazers_count": 260,
-    "open_issues_count": 35,
+    "stargazers_count": 262,
+    "open_issues_count": 30,
     "forks_count": 6
   },
   {
     "full_name": "natecraddock/workspaces.nvim",
-    "stargazers_count": 81,
+    "stargazers_count": 83,
     "open_issues_count": 0,
     "forks_count": 3
   },
@@ -43,19 +43,19 @@
   },
   {
     "full_name": "App-vNext/Polly",
-    "stargazers_count": 10987,
+    "stargazers_count": 11003,
     "open_issues_count": 86,
     "forks_count": 1003
   },
   {
     "full_name": "jbogard/MediatR",
-    "stargazers_count": 8467,
+    "stargazers_count": 8483,
     "open_issues_count": 78,
-    "forks_count": 995
+    "forks_count": 996
   },
   {
     "full_name": "khellang/Scrutor",
-    "stargazers_count": 2495,
+    "stargazers_count": 2498,
     "open_issues_count": 35,
     "forks_count": 189
   },
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "CRAG666/code_runner.nvim",
-    "stargazers_count": 203,
-    "open_issues_count": 5,
+    "stargazers_count": 204,
+    "open_issues_count": 4,
     "forks_count": 12
   },
   {
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "mendel5/alternative-front-ends",
-    "stargazers_count": 2633,
-    "open_issues_count": 29,
-    "forks_count": 76
+    "stargazers_count": 2651,
+    "open_issues_count": 30,
+    "forks_count": 77
   },
   {
     "full_name": "CTFd/CTFd",
-    "stargazers_count": 4181,
-    "open_issues_count": 248,
-    "forks_count": 1600
+    "stargazers_count": 4185,
+    "open_issues_count": 249,
+    "forks_count": 1599
   },
   {
     "full_name": "stripe-ctf/stripe-ctf-2.0",
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "roddhjav/pass-import",
-    "stargazers_count": 604,
+    "stargazers_count": 605,
     "open_issues_count": 5,
     "forks_count": 82
   },
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "typesense/typesense",
-    "stargazers_count": 10841,
-    "open_issues_count": 203,
-    "forks_count": 315
+    "stargazers_count": 10939,
+    "open_issues_count": 208,
+    "forks_count": 319
   },
   {
     "full_name": "wiremock/wiremock",
-    "stargazers_count": 5140,
-    "open_issues_count": 251,
-    "forks_count": 1273
+    "stargazers_count": 5145,
+    "open_issues_count": 245,
+    "forks_count": 1272
   }
 ]
