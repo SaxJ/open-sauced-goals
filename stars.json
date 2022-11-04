@@ -1,21 +1,21 @@
 [
   {
     "full_name": "rmagatti/auto-session",
-    "stargazers_count": 605,
+    "stargazers_count": 607,
     "open_issues_count": 16,
     "forks_count": 24
   },
   {
     "full_name": "lapce/lapce",
-    "stargazers_count": 20003,
-    "open_issues_count": 442,
-    "forks_count": 575
+    "stargazers_count": 20053,
+    "open_issues_count": 449,
+    "forks_count": 579
   },
   {
     "full_name": "valeriansaliou/sonic",
-    "stargazers_count": 16485,
-    "open_issues_count": 59,
-    "forks_count": 504
+    "stargazers_count": 16713,
+    "open_issues_count": 62,
+    "forks_count": 508
   },
   {
     "full_name": "BSidesSF/ctf-2022-release",
@@ -38,7 +38,7 @@
   {
     "full_name": "commercial-emacs/commercial-emacs",
     "stargazers_count": 285,
-    "open_issues_count": 52,
+    "open_issues_count": 58,
     "forks_count": 6
   },
   {
@@ -55,21 +55,21 @@
   },
   {
     "full_name": "App-vNext/Polly",
-    "stargazers_count": 11227,
+    "stargazers_count": 11236,
     "open_issues_count": 90,
-    "forks_count": 1012
+    "forks_count": 1014
   },
   {
     "full_name": "jbogard/MediatR",
-    "stargazers_count": 8668,
+    "stargazers_count": 8684,
     "open_issues_count": 2,
-    "forks_count": 1009
+    "forks_count": 1011
   },
   {
     "full_name": "khellang/Scrutor",
-    "stargazers_count": 2586,
+    "stargazers_count": 2598,
     "open_issues_count": 37,
-    "forks_count": 190
+    "forks_count": 192
   },
   {
     "full_name": "mfine/heroku-buildpack-stack",
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "junnplus/lsp-setup.nvim",
-    "stargazers_count": 188,
+    "stargazers_count": 189,
     "open_issues_count": 3,
     "forks_count": 7
   },
@@ -91,8 +91,8 @@
   },
   {
     "full_name": "CRAG666/code_runner.nvim",
-    "stargazers_count": 226,
-    "open_issues_count": 4,
+    "stargazers_count": 227,
+    "open_issues_count": 5,
     "forks_count": 14
   },
   {
@@ -139,15 +139,15 @@
   },
   {
     "full_name": "mendel5/alternative-front-ends",
-    "stargazers_count": 2944,
-    "open_issues_count": 40,
+    "stargazers_count": 2961,
+    "open_issues_count": 41,
     "forks_count": 85
   },
   {
     "full_name": "CTFd/CTFd",
-    "stargazers_count": 4277,
-    "open_issues_count": 258,
-    "forks_count": 1629
+    "stargazers_count": 4286,
+    "open_issues_count": 260,
+    "forks_count": 1632
   },
   {
     "full_name": "stripe-ctf/stripe-ctf-2.0",
@@ -157,25 +157,25 @@
   },
   {
     "full_name": "roddhjav/pass-import",
-    "stargazers_count": 614,
+    "stargazers_count": 616,
     "open_issues_count": 8,
-    "forks_count": 83
+    "forks_count": 84
   },
   {
     "full_name": "Lybecker/k8s-friendly-aspnetcore",
-    "stargazers_count": 60,
+    "stargazers_count": 62,
     "open_issues_count": 0,
     "forks_count": 10
   },
   {
     "full_name": "meedstrom/eva",
-    "stargazers_count": 129,
+    "stargazers_count": 130,
     "open_issues_count": 10,
     "forks_count": 4
   },
   {
     "full_name": "astoff/devdocs.el",
-    "stargazers_count": 107,
+    "stargazers_count": 108,
     "open_issues_count": 3,
     "forks_count": 8
   }
