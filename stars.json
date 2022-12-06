@@ -13,27 +13,27 @@
   },
   {
     "full_name": "BlueFlo0d/insecure-lock",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "VonHeikemen/lsp-zero.nvim",
-    "stargazers_count": 453,
+    "stargazers_count": 568,
     "open_issues_count": 0,
     "forks_count": 13
   },
   {
     "full_name": "kkoomen/vim-doge",
-    "stargazers_count": 798,
+    "stargazers_count": 800,
     "open_issues_count": 21,
     "forks_count": 38
   },
   {
     "full_name": "emacs-lsp/emacs",
     "stargazers_count": 32,
-    "open_issues_count": 4,
-    "forks_count": 0
+    "open_issues_count": 5,
+    "forks_count": 1
   },
   {
     "full_name": "rmagatti/auto-session",
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "lapce/lapce",
-    "stargazers_count": 20772,
-    "open_issues_count": 465,
-    "forks_count": 595
+    "stargazers_count": 20836,
+    "open_issues_count": 468,
+    "forks_count": 599
   },
   {
     "full_name": "valeriansaliou/sonic",
-    "stargazers_count": 17091,
+    "stargazers_count": 17222,
     "open_issues_count": 64,
-    "forks_count": 513
+    "forks_count": 516
   },
   {
     "full_name": "BSidesSF/ctf-2022-release",
@@ -62,7 +62,7 @@
   {
     "full_name": "alinemorelli/react-gtm",
     "stargazers_count": 582,
-    "open_issues_count": 50,
+    "open_issues_count": 51,
     "forks_count": 114
   },
   {
@@ -73,13 +73,13 @@
   },
   {
     "full_name": "commercial-emacs/commercial-emacs",
-    "stargazers_count": 298,
-    "open_issues_count": 54,
+    "stargazers_count": 300,
+    "open_issues_count": 59,
     "forks_count": 7
   },
   {
     "full_name": "natecraddock/workspaces.nvim",
-    "stargazers_count": 110,
+    "stargazers_count": 112,
     "open_issues_count": 1,
     "forks_count": 3
   },
@@ -91,19 +91,19 @@
   },
   {
     "full_name": "App-vNext/Polly",
-    "stargazers_count": 11342,
+    "stargazers_count": 11353,
     "open_issues_count": 88,
     "forks_count": 1018
   },
   {
     "full_name": "jbogard/MediatR",
-    "stargazers_count": 8822,
+    "stargazers_count": 8832,
     "open_issues_count": 1,
-    "forks_count": 1022
+    "forks_count": 1023
   },
   {
     "full_name": "khellang/Scrutor",
-    "stargazers_count": 2655,
+    "stargazers_count": 2664,
     "open_issues_count": 39,
     "forks_count": 194
   },
@@ -122,13 +122,13 @@
   {
     "full_name": "cljoly/telescope-repo.nvim",
     "stargazers_count": 123,
-    "open_issues_count": 9,
+    "open_issues_count": 8,
     "forks_count": 5
   },
   {
     "full_name": "CRAG666/code_runner.nvim",
-    "stargazers_count": 243,
-    "open_issues_count": 5,
+    "stargazers_count": 242,
+    "open_issues_count": 8,
     "forks_count": 14
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "mendel5/alternative-front-ends",
-    "stargazers_count": 3147,
-    "open_issues_count": 45,
+    "stargazers_count": 3166,
+    "open_issues_count": 47,
     "forks_count": 90
   }
 ]
