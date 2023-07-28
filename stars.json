@@ -19,21 +19,21 @@
   },
   {
     "full_name": "thangchung/awesome-dotnet-core",
-    "stargazers_count": 18178,
+    "stargazers_count": 18189,
     "open_issues_count": 158,
     "forks_count": 2752
   },
   {
     "full_name": "dotnet/samples",
-    "stargazers_count": 2943,
-    "open_issues_count": 64,
-    "forks_count": 4880
+    "stargazers_count": 2946,
+    "open_issues_count": 63,
+    "forks_count": 4881
   },
   {
     "full_name": "pengweiqhca/Xunit.DependencyInjection",
     "stargazers_count": 296,
     "open_issues_count": 9,
-    "forks_count": 39
+    "forks_count": 40
   },
   {
     "full_name": "mustaddon/DbQueue",
@@ -55,13 +55,13 @@
   },
   {
     "full_name": "VonHeikemen/lsp-zero.nvim",
-    "stargazers_count": 2425,
+    "stargazers_count": 2448,
     "open_issues_count": 2,
     "forks_count": 83
   },
   {
     "full_name": "kkoomen/vim-doge",
-    "stargazers_count": 875,
+    "stargazers_count": 874,
     "open_issues_count": 7,
     "forks_count": 43
   },
@@ -73,19 +73,19 @@
   },
   {
     "full_name": "rmagatti/auto-session",
-    "stargazers_count": 790,
+    "stargazers_count": 793,
     "open_issues_count": 28,
     "forks_count": 34
   },
   {
     "full_name": "lapce/lapce",
-    "stargazers_count": 26325,
-    "open_issues_count": 665,
-    "forks_count": 791
+    "stargazers_count": 26384,
+    "open_issues_count": 669,
+    "forks_count": 790
   },
   {
     "full_name": "valeriansaliou/sonic",
-    "stargazers_count": 18405,
+    "stargazers_count": 18414,
     "open_issues_count": 69,
     "forks_count": 540
   },
@@ -109,13 +109,13 @@
   },
   {
     "full_name": "commercial-emacs/commercial-emacs",
-    "stargazers_count": 345,
+    "stargazers_count": 346,
     "open_issues_count": 106,
     "forks_count": 8
   },
   {
     "full_name": "natecraddock/workspaces.nvim",
-    "stargazers_count": 173,
+    "stargazers_count": 174,
     "open_issues_count": 0,
     "forks_count": 8
   },
@@ -127,21 +127,21 @@
   },
   {
     "full_name": "App-vNext/Polly",
-    "stargazers_count": 12081,
-    "open_issues_count": 47,
+    "stargazers_count": 12096,
+    "open_issues_count": 46,
     "forks_count": 1072
   },
   {
     "full_name": "jbogard/MediatR",
-    "stargazers_count": 9766,
-    "open_issues_count": 4,
-    "forks_count": 1080
+    "stargazers_count": 9769,
+    "open_issues_count": 5,
+    "forks_count": 1079
   },
   {
     "full_name": "khellang/Scrutor",
-    "stargazers_count": 3045,
+    "stargazers_count": 3052,
     "open_issues_count": 49,
-    "forks_count": 213
+    "forks_count": 214
   },
   {
     "full_name": "mfine/heroku-buildpack-stack",
@@ -163,8 +163,8 @@
   },
   {
     "full_name": "CRAG666/code_runner.nvim",
-    "stargazers_count": 365,
-    "open_issues_count": 14,
+    "stargazers_count": 366,
+    "open_issues_count": 13,
     "forks_count": 25
   },
   {
