@@ -1,38 +1,38 @@
 [
   {
     "full_name": "dj95/zjstatus",
-    "stargazers_count": 208,
+    "stargazers_count": 215,
     "open_issues_count": 4,
     "forks_count": 4
   },
   {
     "full_name": "williamdemeo/TypeFunc",
-    "stargazers_count": 294,
+    "stargazers_count": 296,
     "open_issues_count": 0,
     "forks_count": 15
   },
   {
     "full_name": "KRTirtho/spotube",
-    "stargazers_count": 22422,
-    "open_issues_count": 278,
-    "forks_count": 839
+    "stargazers_count": 22503,
+    "open_issues_count": 285,
+    "forks_count": 843
   },
   {
     "full_name": "alainm23/planify",
-    "stargazers_count": 2691,
-    "open_issues_count": 90,
-    "forks_count": 172
+    "stargazers_count": 2699,
+    "open_issues_count": 94,
+    "forks_count": 171
   },
   {
     "full_name": "nvimdev/epo.nvim",
-    "stargazers_count": 99,
+    "stargazers_count": 102,
     "open_issues_count": 2,
     "forks_count": 5
   },
   {
     "full_name": "contour-terminal/contour",
-    "stargazers_count": 2136,
-    "open_issues_count": 209,
+    "stargazers_count": 2137,
+    "open_issues_count": 210,
     "forks_count": 124
   },
   {
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "betterbrowser/arcfox",
-    "stargazers_count": 437,
+    "stargazers_count": 443,
     "open_issues_count": 0,
     "forks_count": 29
   },
@@ -67,15 +67,15 @@
   },
   {
     "full_name": "thangchung/awesome-dotnet-core",
-    "stargazers_count": 18950,
-    "open_issues_count": 156,
-    "forks_count": 2820
+    "stargazers_count": 18968,
+    "open_issues_count": 157,
+    "forks_count": 2821
   },
   {
     "full_name": "dotnet/samples",
-    "stargazers_count": 3165,
-    "open_issues_count": 72,
-    "forks_count": 4976
+    "stargazers_count": 3169,
+    "open_issues_count": 74,
+    "forks_count": 4977
   },
   {
     "full_name": "pengweiqhca/Xunit.DependencyInjection",
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "VonHeikemen/lsp-zero.nvim",
-    "stargazers_count": 3337,
+    "stargazers_count": 3352,
     "open_issues_count": 9,
     "forks_count": 94
   },
@@ -121,21 +121,21 @@
   },
   {
     "full_name": "rmagatti/auto-session",
-    "stargazers_count": 964,
-    "open_issues_count": 30,
-    "forks_count": 36
+    "stargazers_count": 966,
+    "open_issues_count": 32,
+    "forks_count": 37
   },
   {
     "full_name": "lapce/lapce",
-    "stargazers_count": 31156,
+    "stargazers_count": 31206,
     "open_issues_count": 727,
-    "forks_count": 906
+    "forks_count": 911
   },
   {
     "full_name": "valeriansaliou/sonic",
-    "stargazers_count": 19221,
+    "stargazers_count": 19233,
     "open_issues_count": 65,
-    "forks_count": 540
+    "forks_count": 539
   },
   {
     "full_name": "BSidesSF/ctf-2022-release",
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "commercial-emacs/commercial-emacs",
-    "stargazers_count": 396,
+    "stargazers_count": 397,
     "open_issues_count": 111,
     "forks_count": 9
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "App-vNext/Polly",
-    "stargazers_count": 12795,
-    "open_issues_count": 14,
+    "stargazers_count": 12806,
+    "open_issues_count": 15,
     "forks_count": 1121
   }
 ]
